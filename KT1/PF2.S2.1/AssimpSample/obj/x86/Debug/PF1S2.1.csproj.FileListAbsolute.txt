@@ -1,0 +1,58 @@
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\bin\Debug\SharpGL.dll
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\PF1S2.1.csprojAssemblyReference.cache
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\PF1S2.1.csproj.GenerateResource.cache
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\PF1S2.1.csproj.CoreCompileInputs.cache
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\PF1S2.1.csproj.CopyComplete
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Fakultet\7. semestar\Grafika\Projekat\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\PF1S2.1.csproj.GenerateResource.cache
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\PF1S2.1.csproj.CoreCompileInputs.cache
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\PF1S2.1.csproj.CopyComplete
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.Cg.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.DevIl.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.FFmpeg.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.FreeGlut.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.FreeType.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.Glfw.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.Lua.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.Ode.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.OpenAl.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.OpenGl.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.PhysFs.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\bin\Debug\Tao.Sdl.dll
+C:\Users\majas\Desktop\RacunarskaGrafika\KT1\PF1.S2.1\AssimpSample\obj\x86\Debug\PF1S2.1.csprojAssemblyReference.cache
